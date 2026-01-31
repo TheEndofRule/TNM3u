@@ -1,0 +1,21 @@
+#EXTM3U
+#EXTINF:-1 tvg-id="WDEF-CBS-CHA.us@HD",WDEF/CBS Chattanooga (1080p)
+https://fl1.moveonjoy.com/TN_CHATTANOOGA_CBS/index.m3u8
+#EXTINF:-1 tvg-id="WTVC2-FOX-CHA@HD",WTVC2/FOX Chattanooga (1080p)
+https://fl1.moveonjoy.com/TN_CHATTANOOGA_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WRCB-NBC-CHA.us@HD",WRCB/NBC Chattanooga (1080p)
+https://fl1.moveonjoy.com/TN_CHATTANOOGA_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WBIR-NBC-TYS.us@HD",WBIR/NBC Knoxvillie (1080p)
+https://fl1.moveonjoy.com/TN_Knoxville_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WTNZ-FOX-TYS.us@HD",WTNZ/Fox Knoxvillie (1080p)
+https://fl1.moveonjoy.com/TN_Knoxville_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WHBQ-FOX-MEM.us@HD",WHBQ/NBC Memphis (1080p)
+https://fl1.moveonjoy.com/TN_Memphis_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WMC-NBC-MEM.us@HD",WMC/NBC Memphis (1080p)
+https://fl1.moveonjoy.com/TN_Memphis_NBC/index.m3u8
+#EXTINF:-1 tvg-id="WKRN-ABC-BNA.us@HD",WKRN/ABC Nashvillie (1080p)
+https://fl1.moveonjoy.com/TN_NASHVILLE_ABC/index.m3u8
+#EXTINF:-1 tvg-id="WZTV-FOX-BNA.us@HD",WZTV/Fox Nashvillie (1080p)
+https://fl1.moveonjoy.com/TN_Nashville_FOX/index.m3u8
+#EXTINF:-1 tvg-id="WSMV-NBC-BNA.us@HD",WSMV/NBC Nashvillie (1080p)
+https://fl1.moveonjoy.com/TN_Nashville_NBC/index.m3u8
